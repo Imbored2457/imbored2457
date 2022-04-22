@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything releated to python.
 - 📫 How to reach me: on discord. Imbored#6662
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: i was 8 when i started programming.
 -->
